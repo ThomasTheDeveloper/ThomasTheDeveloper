@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThomasTheDeveloper
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Python
+- 📫 How to reach me [DM ME ON DISCORD TomTom12#3405]
